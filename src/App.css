@@ -1,10 +1,11 @@
-.app{
+.app {
   display: grid;
   place-items: center;    
   background-color: #dadbd3;
   height: 100vh;
 }
-.app_body{
+
+.app_body {
   display: flex;
   background-color: #ededed;
   height: 90vh;
