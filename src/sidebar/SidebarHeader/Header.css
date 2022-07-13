@@ -1,0 +1,13 @@
+.sidebar_header {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    background-color: #F0F2F5; 
+}
+.sidebar_header_right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 12vw;
+  
+}
