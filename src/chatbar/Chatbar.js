@@ -23,7 +23,6 @@ function Chatbar(props) {
                     <p className='chat-room-lastseen'>Last seen 2:30pm</p>
                 </div>
                 <div   className="chatbar_header_right">
-                
                     <IconButton>
                      <VideocamOutlinedIcon/>
                     </IconButton>
@@ -38,8 +37,7 @@ function Chatbar(props) {
 
                     <IconButton>
                      <MoreHorizIcon/>
-                    </IconButton>
-                    
+                    </IconButton>     
                 </div>
 
             </div>
@@ -52,7 +50,6 @@ function Chatbar(props) {
                     </p>
 
             </div>
-
 
             <div className='chat_footer'>
              <InsertEmoticonIcon />
